@@ -17,3 +17,5 @@ Supports NAT Gateway for private subnet internet access
 An AWS account with necessary permissions to create networking resources
 Terraform installed (if using Terraform for provisioning)
 AWS CLI configured with appropriate credentials
+
+
